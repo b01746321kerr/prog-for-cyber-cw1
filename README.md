@@ -24,11 +24,11 @@ This repo is my portfolio for thecoursework 1. every task is on its own branch w
 
 # Branches
 
-| Task 1 | `security-tool` |
-| Task 2 | `security-event-logger` |
-| Task 3 | `ip-address-validator` |
-| Task 4 | `security-incident-manager` |
-| Task 5 | `cyber-security-utilities` |
+- Task 1: `security-tool`
+- Task 2: `security-event-logger`
+- Task 3: `ip-address-validator`
+- Task 4: `security-incident-manager`
+- Task 5: `cyber-security-utilities`
 
 ## License
 
